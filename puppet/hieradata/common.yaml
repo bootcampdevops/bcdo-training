@@ -1,0 +1,7 @@
+create_users::users:
+  'rvora':
+    uid: '1101'
+  'tchang':
+    uid: '1102'
+  'vshu':
+    uid: '1103'
